@@ -1,0 +1,1133 @@
+{
+  "training_texts": [
+    "<|startoftext|>Student: What was your dream job as a child?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: What attracts you to this job?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: Who inspired you to choose it?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: What do you hope to accomplish through your future job?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: How do most parents nowadays guide their children to choose their future career?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: Do you think parents follow the right strategy?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: What factors should be taken into consideration to decide a future career?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: What is the influence of peers on children?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: How can demotivation affect the child's character?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: What do researchers recommend to choose our future career?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: **Q:** Rachel, why are your hands so soft?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: **Q:** Are the onions ready for the pan?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: **Q:** Are the floors clean?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: **Q:** Why are your eyes red, Mike?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: **Q:** Are the plates clean?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: **Q:** Is the fridge all right now?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: A: ________ (you/ ever/ win) a competition?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: 3. A: Is that a new tab?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: A: How long ________ (you / use) a computer?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: A: So, Jack is your best friend. ________ (you/ meet) him when you were at university?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: Read the quotes above about success and discuss them with your partner. What does each one mean?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: What do you think the secret of success is?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: Do you agree with the writer?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: Can failure be a teacher?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: How do you deal with failure?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: What do you know about Ibn Sina (Avicenna) and Al-Razi?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: How did people in the past use to cure illnesses?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: What kind(s) of medical treatments still exist nowadays?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: Why has the number of some dangerous diseases reduced in the recent years?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: Why did ancient \"medicine people\" tend to treat their patients in temples?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: Why didn't most medieval Europeans visit medical schools to receive treatment?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: Who were most patients treated by in the middle ages?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: What developments did medicine experience in the 16th century?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: What did the Industrial Revolution contribute to medicine?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: When did the role of nursing begin to develop?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: What was \"al-Mujarrabat\" about?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: In your opinion, how would medicine be like in the future?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: What are the best ways to avoid getting sick?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: What skills are needed to be a good doctor or nurse?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: Do you think that healthcare should be free?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: In your opinion, how will healthcare be in the future?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: How was life before the invention of engines?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: Why do you think the science of engineering has developed recently?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: Have you ever thought of being an engineer?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: What types of engineering do you know?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: What time does the flight ________ Cairo arrive?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: What can you have done if you go to a mechanic?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: What can you have done if you go to a carpenter?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: What can you have done if you go to a tailor?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: How many times ________ you ________ your house broken into?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: Why should I change my habits to (fit in with, follow through) their way of life?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: The bath in your hotel is full of spiders. You call the manager. What do you say?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: You receive a bill higher than it should be. You ring the manager of the shop to complain. What do you say?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: The bookshop tells you the book you ordered three months ago still hasn't arrived. What do you say?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: How was the United Nations created?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: Which countries are the permanent members of the Security Council?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: When was the League of Nations established?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: What was the main purpose of the United Nations at the beginning of the 21st century?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: In your opinion, does the UN play a moral role in the world?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: What are the duties of students?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: What are the rights of students?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: Why is it important for students to know their rights and duties?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: How can students be aware of their duties?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: Who is responsible for assuring students' rights?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: Why can't viruses and bacteria be seen by the naked eye?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: Where can bacteria survive?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: In what ways are bacteria useful to nature?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: What do viruses require to multiply?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: Why is it difficult to know what causes an infection?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: What do the words in bold (It, they) in the text refer to?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: What do you know about environmental health?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: To what extent are humans environmental friendly?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: How can we reduce health problems in public places?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: Why is the human body considered a great machine?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: What controls all the body organs?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: Where are hormones and enzymes produced?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: How can the body be protected from harmful germs?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: What is the function of the nerves in our body?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: What happens to our body when we become older?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: Where do you wish you were right now?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: What do you wish you were doing?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: Are you pleased with the weather today, or do you wish it were different?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: Look around this room. What do you wish were different?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: Didn't you save your friend's phone number?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: What ________ be doing this time tomorrow?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: What ________ happen to the family if he loses all his money?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: ________ be buying the house or haven't you decided yet?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: What ________ to do when you leave school?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: What may you say in these situations?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: My car is broken; could you (give, meet) me a lift to the nearest bus stop?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: Where did the concept of citizenship first arise?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: What aspects does citizenship refer to?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: Why do some people pay penalties?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: Why is it necessary to pass the concept of citizenship to the coming generation?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: A: (be/ their son/ good/ school work?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: A: (be/ you pleased/ Anna's exam result?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: A: (Why/ be/ Mr Jack's dog/ afraid/ him?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: Harry used to help Ann. Or was it Helen?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: The person opposite you in the train has been trying to read your newspaper. What do you say?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: The person on your right is looking hungrily at the vegetable dish on your left. What do you say?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: Have you ever spent time away from your home country?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: What do you think people miss when they move to live in a foreign country?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: What is culture shock?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: How long do the symptoms last?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: What are the four stages of culture shock?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: In which stage do people begin to feel more confident and relaxed in a new cultural environment?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: How can people reduce the impact of culture shock?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: What is the difference between science and technology?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: What are some of the greatest technological achievements nowadays?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: How could technology change human life for better?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: In your opinion, how will technology be in the future?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: What distinguishes artificial agents from other machines?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: How did the idea of artificial intelligence come to the human mind?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: What was intelligent agent limited to during the 1990s?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: How do people expect the future of artificial intelligence?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: How can intelligent machines control every aspect of our life in the near future?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: Do they play any sport?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: Have you ever seen it?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: Does she speak French?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: She has decorated the room, hasn't she?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: \"How long does it take you to get home?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: \"Are you going to the cinema at the weekend?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: \"Where is the key?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: \"Who do you want to meet, sir?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: \"What time did the film start?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: \"What kind of films do you like watching?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: \"Have you ever been to London?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: Who is most likely to agree that communication is the most important?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: What are some services provided by the e-government?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: To whom does the e-government offer its services?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: Which category of e-government service is in charge of payments?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: Why are links to state sectors important?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: What procedures do ministries take to enhance e-government in Syria?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: There's some chocolate in the fridge. Can you get it out?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: Why is the towel on the floor?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: When are you coming back to Syria?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: Will we get the book out by the end of the year?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: You are in a railway carriage. It's crowded and hot. All the windows are closed. What do you say?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: You have a dental appointment and you need the afternoon off. What do you say to your boss?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: You're invited to a party at 8 p.m. You know you can't arrive until about 10 p.m. What do you say?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: There is only one copy of a reference book in the library. Your classmate has it at the moment. You need it urgently for a short time. What do you say?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: Janet to Hala: Did someone ring you an hour ago?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: Judy to Martin: Would you like to join me for lunch tomorrow?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: Who did you vote for in the last ________?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: What are your classmates' ________?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: Do you agree with this quote?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: In no more than 100 words, write a composition in which you describe the job you want after graduation. What kind of challenges do you expect to face in your future career?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: Did you achieve any of your childhood dreams?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: Policeman: Did anything happen while ________ (you / watch) TV?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: A: And when does the boat leave?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: Do the following statements agree with the information given in the text?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: What is the difference in meaning between these sentences?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: Which words in the box do the definitions below describe?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: What do these people say?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: What does UNCRC refer to?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: Many people look for medical advice on the internet before they visit their doctor. Do you think this is a good idea?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: Do you agree or disagree with the following quote?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: Make a list of the disadvantages of living abroad?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: What auxiliary is used when we invert Past Simple and Present Simple?\nTutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.<|endoftext|>",
+    "<|startoftext|>Student: What does 'spelling' mean?\nTutor: The word 'spelling' means: or change it to the. Would you like me to provide some example sentences?<|endoftext|>",
+    "<|startoftext|>Student: What does 'highlighted' mean?\nTutor: The word 'highlighted' means: words. In pairs, choose the right meaning, a or b.. Would you like me to provide some example sentences?<|endoftext|>",
+    "<|startoftext|>Student: What does 'trigger' mean?\nTutor: The word 'trigger' means: all kinds of things that will. Would you like me to provide some example sentences?<|endoftext|>",
+    "<|startoftext|>Student: What does 'neither' mean?\nTutor: The word 'neither' means: interesting. Would you like me to provide some example sentences?<|endoftext|>",
+    "<|startoftext|>Student: What does 'burden' mean?\nTutor: The word 'burden' means: our children with unreal expectations. There are a few factors that are of great importance in the career selection process. The child's. Would you like me to provide some example sentences?<|endoftext|>",
+    "<|startoftext|>Student: What does 'hinder' mean?\nTutor: The word 'hinder' means: the progress of AI, but motivate the development of a systematic framework on which future AI will flourish, so it is quite important to distinguish science fiction from practical reality. Despite the common belief that machines are man-made products, many think of them as the new controllers of our near future!. Would you like me to provide some example sentences?<|endoftext|>",
+    "<|startoftext|>Student: What does 'aviation' mean?\nTutor: The word 'aviation' means: , medicine, online advertising, image recognition, and personal assistance. The AI field is based on computer science, information engineering, mathematics, psychology, linguistics, philosophy and many other fields.. Would you like me to provide some example sentences?<|endoftext|>",
+    "<|startoftext|>Student: What does 'and' mean?\nTutor: The word 'and' means: my sister are here. |Two subjects connected by both ... and take a plural verb, as in (a). Would you like me to provide some example sentences?<|endoftext|>",
+    "<|startoftext|>Student: What does 'swayed' mean?\nTutor: The word 'swayed' means: by peer pressure into choosing a career that the majority was opting rather than the one which was best for him/her. Although it should not be the most important,. Would you like me to provide some example sentences?<|endoftext|>",
+    "<|startoftext|>Student: What does 'spark' mean?\nTutor: The word 'spark' means: started in the year 1950, when a test of the ability of a machine to exhibit intelligent behaviour. Would you like me to provide some example sentences?<|endoftext|>",
+    "<|startoftext|>Student: What does 'demotivation' mean?\nTutor: The word 'demotivation' means: might have a negative impact on the child's mental health when rejecting all of his/her ideas. Parents can work together to gather information about a career and then help the child in deciding whether it is suitable or not. Most people have dreams of future jobs and there's no limit to what this could be, but we can't be absolutely certain about our career choices. Researchers told us that through self-reflection and guided activities, we would find our core values and a clearer path towards the right career.. Would you like me to provide some example sentences?<|endoftext|>",
+    "<|startoftext|>Student: What does 'nor' mean?\nTutor: The word 'nor' means: my sister is here.|• Not only...but also is used for emphasis or to indicate surprise.. Would you like me to provide some example sentences?<|endoftext|>",
+    "<|startoftext|>Student: What does 'equivalent' mean?\nTutor: The word 'equivalent' means: to that of a human was done. Since then, the term AI has been introduced and closely associated with the field of artificial intelligence which was popular until the end of the 1980s. In the 1990s, the new concept of \"intelligent agent\" emerged when AI was not only limited to computer science, but developed to include other areas like health, security, education, music, art, and business applications. Many AI applications are deeply embedded in the infrastructure of every industry, and they are expected, in a few years, to touch nearly all the industries.. Would you like me to provide some example sentences?<|endoftext|>",
+    "<|startoftext|>Student: What does 'remuneration' mean?\nTutor: The word 'remuneration' means: of a career holds value in one's life; nobody likes to earn little. A job's earnings should match the child's aspirations and provide a satisfying comfortable life. Modern societies need professionals in every field: utility workers, garbage collectors, farmers, nurses, doctors, engineers, teachers, professors, and many others. Furthermore,. Would you like me to provide some example sentences?<|endoftext|>",
+    "<|startoftext|>Student: What does 'inevitably' mean?\nTutor: The word 'inevitably' means: carry you to success. Every step taken by you in the direction of your dreams and goals 7 ________. Nothing happens until you take action. To be successful, you have to do what successful people do. All highly successful people are highly action-oriented people. It is said: \"Success is 10% inspiration and 90%. Would you like me to provide some example sentences?<|endoftext|>",
+    "<|startoftext|>Student: What does 'getting' mean?\nTutor: The word 'getting' means: on, Simon? We're ________ (think) it's great here. Everyone is ________ (have) a good time. I'm ________ (sit) (1) ________ in the Nile Hotel. John is ________ (swim) (2) ________ in the pool. Sally is ________ (lie) (3) ________ in the sun, and Jane is ________ (shop)! (4) ________ We're ________ (like) (5) ________ Egypt. We're all ________ (relax) (6) ________. What are you doing? Are you ________ (work) hard (7) ________ at the moment? I ________ (know) (8) ________ your exams start tomorrow. Good luck! Is it ________ (rain) (9) ________ in England? The sun is ________ (shine) (10) ________ here, of course! I'm ________ (learn) (11) ________ a bit of Arabic, but not very much. I'm ________ (understand) (12) ________ some of the things that people say, but only if I repeat them many times.. Would you like me to provide some example sentences?<|endoftext|>",
+    "<|startoftext|>Student: What does 'sacrifice' mean?\nTutor: The word 'sacrifice' means: and most of all, love of what you are doing or learning to do. Success, by definition, means to 1 ________. Some people define success through measures such as wealth, social status, or personal capability. It is also believed by many people that 2 ________, but in many cases, money cannot buy you success. In fact, there are some factors which help us be successful. Start by setting your goals. Having a goal is an essential thing, but it should be a smart goal 3 ________. It requires you to stretch your capabilities and to stay committed and remind yourself that it is not the end of the road. One step more, if there was only one secret to success, 4 ________. It will set you in the best position to execute the task with the least difficulty. Timing also is a crucial ingredient to success. The only method of obtaining good timing is 5 ________. Furthermore, one needs confidence to be successful. They has to start with smaller tasks that have a higher chance of success 6 ________ and happy in their life. Parents should discover at an early age the talents of their children and help them to grow their gift and take care of their needs and interests. Actions are louder than words. When you take action, you. Would you like me to provide some example sentences?<|endoftext|>",
+    "<|startoftext|>Student: What does 'perspiration' mean?\nTutor: The word 'perspiration' means: .\" The golden rule to achieve success is to keep learning. These are three dangerous words: \"I know that.\" If you have read or heard about something, you do not know. If you are not rich and successful the way you want, then you do not know. Become a 'learn it all' rather than 'know it all'. Finally, it is significant to know that things do not just happen to your benefit by themselves; you must work hard to make them happen. Life is like a game 8 ________ more than playing not to lose.. Would you like me to provide some example sentences?<|endoftext|>",
+    "<|startoftext|>Student: What does 'aspire' mean?\nTutor: The word 'aspire' means: to become can be completely different. Many parents said they had misguided their children into choosing a career of their choice. It is very important not to. Would you like me to provide some example sentences?<|endoftext|>",
+    "<|startoftext|>Student: What does 'agents' mean?\nTutor: The word 'agents' means: that interact with the surroundings and conduct human-like behaviours. These agents are tools, having the ability to judge matter and differentiate what is wrong.. Would you like me to provide some example sentences?<|endoftext|>",
+    "<|startoftext|>Student: What does 'aptitude' mean?\nTutor: The word 'aptitude' means: is a mirror of his/her personality, strengths, and weaknesses. Hence, a designed aptitude test can reveal a lot of information regarding the child that can help in taking a well-informed career selection. It is very difficult to spend your life working in a field that you are not interested in. Courses leading towards a desired career should be found easily for the young to enable them to make the right decisions about their future. Psychologists said that it was very easy for a child to get. Would you like me to provide some example sentences?<|endoftext|>",
+    "<|startoftext|>Student: What does 'perseverance' mean?\nTutor: The word 'perseverance' means: , learning, studying,. Would you like me to provide some example sentences?<|endoftext|>",
+    "<|startoftext|>Student: Can you help me with Unit 1?\nTutor: I'd be happy to help you with Unit 1! This unit covers career planning and future goals. Let me guide you through the key topics step by step.<|endoftext|>",
+    "<|startoftext|>Student: I need help with grammar exercises.\nTutor: Grammar can be challenging, but I'm here to help! Let's work through the grammar concepts from your Syrian curriculum step by step.<|endoftext|>",
+    "<|startoftext|>Student: How do I prepare for my English exam?\nTutor: Great question! Let me give you some effective study strategies for your English exam based on the Syrian 12th grade curriculum.<|endoftext|>",
+    "<|startoftext|>Student: I'm struggling with vocabulary.\nTutor: Vocabulary building is important! Let me help you learn and remember new words from your textbook effectively.<|endoftext|>",
+    "<|startoftext|>Student: Help me understand this reading passage.\nTutor: I'd be happy to help you understand the reading passage! Let's break it down paragraph by paragraph and discuss the key ideas.<|endoftext|>",
+    "<|startoftext|>Student: How do I write a good essay?\nTutor: Writing a good essay involves planning, structure, and clear expression. Let me guide you through the process using examples from your curriculum.<|endoftext|>"
+  ],
+  "examples": [
+    {
+      "input": "Student: What was your dream job as a child?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: What attracts you to this job?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: Who inspired you to choose it?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: What do you hope to accomplish through your future job?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: How do most parents nowadays guide their children to choose their future career?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: Do you think parents follow the right strategy?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: What factors should be taken into consideration to decide a future career?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: What is the influence of peers on children?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: How can demotivation affect the child's character?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: What do researchers recommend to choose our future career?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: **Q:** Rachel, why are your hands so soft?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: **Q:** Are the onions ready for the pan?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: **Q:** Are the floors clean?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: **Q:** Why are your eyes red, Mike?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: **Q:** Are the plates clean?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: **Q:** Is the fridge all right now?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: A: ________ (you/ ever/ win) a competition?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: 3. A: Is that a new tab?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: A: How long ________ (you / use) a computer?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: A: So, Jack is your best friend. ________ (you/ meet) him when you were at university?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: Read the quotes above about success and discuss them with your partner. What does each one mean?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: What do you think the secret of success is?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: Do you agree with the writer?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: Can failure be a teacher?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: How do you deal with failure?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: What do you know about Ibn Sina (Avicenna) and Al-Razi?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: How did people in the past use to cure illnesses?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: What kind(s) of medical treatments still exist nowadays?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: Why has the number of some dangerous diseases reduced in the recent years?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: Why did ancient \"medicine people\" tend to treat their patients in temples?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: Why didn't most medieval Europeans visit medical schools to receive treatment?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: Who were most patients treated by in the middle ages?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: What developments did medicine experience in the 16th century?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: What did the Industrial Revolution contribute to medicine?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: When did the role of nursing begin to develop?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: What was \"al-Mujarrabat\" about?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: In your opinion, how would medicine be like in the future?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: What are the best ways to avoid getting sick?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: What skills are needed to be a good doctor or nurse?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: Do you think that healthcare should be free?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: In your opinion, how will healthcare be in the future?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: How was life before the invention of engines?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: Why do you think the science of engineering has developed recently?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: Have you ever thought of being an engineer?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: What types of engineering do you know?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: What time does the flight ________ Cairo arrive?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: What can you have done if you go to a mechanic?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: What can you have done if you go to a carpenter?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: What can you have done if you go to a tailor?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: How many times ________ you ________ your house broken into?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: Why should I change my habits to (fit in with, follow through) their way of life?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: The bath in your hotel is full of spiders. You call the manager. What do you say?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: You receive a bill higher than it should be. You ring the manager of the shop to complain. What do you say?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: The bookshop tells you the book you ordered three months ago still hasn't arrived. What do you say?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: How was the United Nations created?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: Which countries are the permanent members of the Security Council?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: When was the League of Nations established?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: What was the main purpose of the United Nations at the beginning of the 21st century?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: In your opinion, does the UN play a moral role in the world?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: What are the duties of students?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: What are the rights of students?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: Why is it important for students to know their rights and duties?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: How can students be aware of their duties?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: Who is responsible for assuring students' rights?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: Why can't viruses and bacteria be seen by the naked eye?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: Where can bacteria survive?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: In what ways are bacteria useful to nature?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: What do viruses require to multiply?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: Why is it difficult to know what causes an infection?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: What do the words in bold (It, they) in the text refer to?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: What do you know about environmental health?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: To what extent are humans environmental friendly?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: How can we reduce health problems in public places?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: Why is the human body considered a great machine?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: What controls all the body organs?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: Where are hormones and enzymes produced?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: How can the body be protected from harmful germs?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: What is the function of the nerves in our body?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: What happens to our body when we become older?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: Where do you wish you were right now?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: What do you wish you were doing?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: Are you pleased with the weather today, or do you wish it were different?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: Look around this room. What do you wish were different?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: Didn't you save your friend's phone number?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: What ________ be doing this time tomorrow?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: What ________ happen to the family if he loses all his money?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: ________ be buying the house or haven't you decided yet?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: What ________ to do when you leave school?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: What may you say in these situations?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: My car is broken; could you (give, meet) me a lift to the nearest bus stop?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: Where did the concept of citizenship first arise?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: What aspects does citizenship refer to?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: Why do some people pay penalties?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: Why is it necessary to pass the concept of citizenship to the coming generation?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: A: (be/ their son/ good/ school work?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: A: (be/ you pleased/ Anna's exam result?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: A: (Why/ be/ Mr Jack's dog/ afraid/ him?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: Harry used to help Ann. Or was it Helen?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: The person opposite you in the train has been trying to read your newspaper. What do you say?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: The person on your right is looking hungrily at the vegetable dish on your left. What do you say?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: Have you ever spent time away from your home country?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: What do you think people miss when they move to live in a foreign country?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: What is culture shock?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: How long do the symptoms last?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: What are the four stages of culture shock?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: In which stage do people begin to feel more confident and relaxed in a new cultural environment?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: How can people reduce the impact of culture shock?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: What is the difference between science and technology?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: What are some of the greatest technological achievements nowadays?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: How could technology change human life for better?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: In your opinion, how will technology be in the future?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: What distinguishes artificial agents from other machines?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: How did the idea of artificial intelligence come to the human mind?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: What was intelligent agent limited to during the 1990s?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: How do people expect the future of artificial intelligence?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: How can intelligent machines control every aspect of our life in the near future?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: Do they play any sport?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: Have you ever seen it?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: Does she speak French?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: She has decorated the room, hasn't she?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: \"How long does it take you to get home?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: \"Are you going to the cinema at the weekend?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: \"Where is the key?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: \"Who do you want to meet, sir?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: \"What time did the film start?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: \"What kind of films do you like watching?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: \"Have you ever been to London?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: Who is most likely to agree that communication is the most important?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: What are some services provided by the e-government?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: To whom does the e-government offer its services?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: Which category of e-government service is in charge of payments?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: Why are links to state sectors important?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: What procedures do ministries take to enhance e-government in Syria?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: There's some chocolate in the fridge. Can you get it out?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: Why is the towel on the floor?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: When are you coming back to Syria?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: Will we get the book out by the end of the year?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: You are in a railway carriage. It's crowded and hot. All the windows are closed. What do you say?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: You have a dental appointment and you need the afternoon off. What do you say to your boss?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: You're invited to a party at 8 p.m. You know you can't arrive until about 10 p.m. What do you say?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: There is only one copy of a reference book in the library. Your classmate has it at the moment. You need it urgently for a short time. What do you say?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: Janet to Hala: Did someone ring you an hour ago?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: Judy to Martin: Would you like to join me for lunch tomorrow?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: Who did you vote for in the last ________?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: What are your classmates' ________?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: Do you agree with this quote?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: In no more than 100 words, write a composition in which you describe the job you want after graduation. What kind of challenges do you expect to face in your future career?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: Did you achieve any of your childhood dreams?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: Policeman: Did anything happen while ________ (you / watch) TV?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: A: And when does the boat leave?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: Do the following statements agree with the information given in the text?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: What is the difference in meaning between these sentences?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: Which words in the box do the definitions below describe?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: What do these people say?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: What does UNCRC refer to?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: Many people look for medical advice on the internet before they visit their doctor. Do you think this is a good idea?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: Do you agree or disagree with the following quote?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: Make a list of the disadvantages of living abroad?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: What auxiliary is used when we invert Past Simple and Present Simple?",
+      "output": "Tutor: Let me help you with this question. I'll explain this step by step based on the Syrian 12th grade English curriculum.",
+      "type": "question_answer"
+    },
+    {
+      "input": "Student: What does 'spelling' mean?",
+      "output": "Tutor: The word 'spelling' means: or change it to the. Would you like me to provide some example sentences?",
+      "type": "vocabulary"
+    },
+    {
+      "input": "Student: What does 'highlighted' mean?",
+      "output": "Tutor: The word 'highlighted' means: words. In pairs, choose the right meaning, a or b.. Would you like me to provide some example sentences?",
+      "type": "vocabulary"
+    },
+    {
+      "input": "Student: What does 'trigger' mean?",
+      "output": "Tutor: The word 'trigger' means: all kinds of things that will. Would you like me to provide some example sentences?",
+      "type": "vocabulary"
+    },
+    {
+      "input": "Student: What does 'neither' mean?",
+      "output": "Tutor: The word 'neither' means: interesting. Would you like me to provide some example sentences?",
+      "type": "vocabulary"
+    },
+    {
+      "input": "Student: What does 'burden' mean?",
+      "output": "Tutor: The word 'burden' means: our children with unreal expectations. There are a few factors that are of great importance in the career selection process. The child's. Would you like me to provide some example sentences?",
+      "type": "vocabulary"
+    },
+    {
+      "input": "Student: What does 'hinder' mean?",
+      "output": "Tutor: The word 'hinder' means: the progress of AI, but motivate the development of a systematic framework on which future AI will flourish, so it is quite important to distinguish science fiction from practical reality. Despite the common belief that machines are man-made products, many think of them as the new controllers of our near future!. Would you like me to provide some example sentences?",
+      "type": "vocabulary"
+    },
+    {
+      "input": "Student: What does 'aviation' mean?",
+      "output": "Tutor: The word 'aviation' means: , medicine, online advertising, image recognition, and personal assistance. The AI field is based on computer science, information engineering, mathematics, psychology, linguistics, philosophy and many other fields.. Would you like me to provide some example sentences?",
+      "type": "vocabulary"
+    },
+    {
+      "input": "Student: What does 'and' mean?",
+      "output": "Tutor: The word 'and' means: my sister are here. |Two subjects connected by both ... and take a plural verb, as in (a). Would you like me to provide some example sentences?",
+      "type": "vocabulary"
+    },
+    {
+      "input": "Student: What does 'swayed' mean?",
+      "output": "Tutor: The word 'swayed' means: by peer pressure into choosing a career that the majority was opting rather than the one which was best for him/her. Although it should not be the most important,. Would you like me to provide some example sentences?",
+      "type": "vocabulary"
+    },
+    {
+      "input": "Student: What does 'spark' mean?",
+      "output": "Tutor: The word 'spark' means: started in the year 1950, when a test of the ability of a machine to exhibit intelligent behaviour. Would you like me to provide some example sentences?",
+      "type": "vocabulary"
+    },
+    {
+      "input": "Student: What does 'demotivation' mean?",
+      "output": "Tutor: The word 'demotivation' means: might have a negative impact on the child's mental health when rejecting all of his/her ideas. Parents can work together to gather information about a career and then help the child in deciding whether it is suitable or not. Most people have dreams of future jobs and there's no limit to what this could be, but we can't be absolutely certain about our career choices. Researchers told us that through self-reflection and guided activities, we would find our core values and a clearer path towards the right career.. Would you like me to provide some example sentences?",
+      "type": "vocabulary"
+    },
+    {
+      "input": "Student: What does 'nor' mean?",
+      "output": "Tutor: The word 'nor' means: my sister is here.|• Not only...but also is used for emphasis or to indicate surprise.. Would you like me to provide some example sentences?",
+      "type": "vocabulary"
+    },
+    {
+      "input": "Student: What does 'equivalent' mean?",
+      "output": "Tutor: The word 'equivalent' means: to that of a human was done. Since then, the term AI has been introduced and closely associated with the field of artificial intelligence which was popular until the end of the 1980s. In the 1990s, the new concept of \"intelligent agent\" emerged when AI was not only limited to computer science, but developed to include other areas like health, security, education, music, art, and business applications. Many AI applications are deeply embedded in the infrastructure of every industry, and they are expected, in a few years, to touch nearly all the industries.. Would you like me to provide some example sentences?",
+      "type": "vocabulary"
+    },
+    {
+      "input": "Student: What does 'remuneration' mean?",
+      "output": "Tutor: The word 'remuneration' means: of a career holds value in one's life; nobody likes to earn little. A job's earnings should match the child's aspirations and provide a satisfying comfortable life. Modern societies need professionals in every field: utility workers, garbage collectors, farmers, nurses, doctors, engineers, teachers, professors, and many others. Furthermore,. Would you like me to provide some example sentences?",
+      "type": "vocabulary"
+    },
+    {
+      "input": "Student: What does 'inevitably' mean?",
+      "output": "Tutor: The word 'inevitably' means: carry you to success. Every step taken by you in the direction of your dreams and goals 7 ________. Nothing happens until you take action. To be successful, you have to do what successful people do. All highly successful people are highly action-oriented people. It is said: \"Success is 10% inspiration and 90%. Would you like me to provide some example sentences?",
+      "type": "vocabulary"
+    },
+    {
+      "input": "Student: What does 'getting' mean?",
+      "output": "Tutor: The word 'getting' means: on, Simon? We're ________ (think) it's great here. Everyone is ________ (have) a good time. I'm ________ (sit) (1) ________ in the Nile Hotel. John is ________ (swim) (2) ________ in the pool. Sally is ________ (lie) (3) ________ in the sun, and Jane is ________ (shop)! (4) ________ We're ________ (like) (5) ________ Egypt. We're all ________ (relax) (6) ________. What are you doing? Are you ________ (work) hard (7) ________ at the moment? I ________ (know) (8) ________ your exams start tomorrow. Good luck! Is it ________ (rain) (9) ________ in England? The sun is ________ (shine) (10) ________ here, of course! I'm ________ (learn) (11) ________ a bit of Arabic, but not very much. I'm ________ (understand) (12) ________ some of the things that people say, but only if I repeat them many times.. Would you like me to provide some example sentences?",
+      "type": "vocabulary"
+    },
+    {
+      "input": "Student: What does 'sacrifice' mean?",
+      "output": "Tutor: The word 'sacrifice' means: and most of all, love of what you are doing or learning to do. Success, by definition, means to 1 ________. Some people define success through measures such as wealth, social status, or personal capability. It is also believed by many people that 2 ________, but in many cases, money cannot buy you success. In fact, there are some factors which help us be successful. Start by setting your goals. Having a goal is an essential thing, but it should be a smart goal 3 ________. It requires you to stretch your capabilities and to stay committed and remind yourself that it is not the end of the road. One step more, if there was only one secret to success, 4 ________. It will set you in the best position to execute the task with the least difficulty. Timing also is a crucial ingredient to success. The only method of obtaining good timing is 5 ________. Furthermore, one needs confidence to be successful. They has to start with smaller tasks that have a higher chance of success 6 ________ and happy in their life. Parents should discover at an early age the talents of their children and help them to grow their gift and take care of their needs and interests. Actions are louder than words. When you take action, you. Would you like me to provide some example sentences?",
+      "type": "vocabulary"
+    },
+    {
+      "input": "Student: What does 'perspiration' mean?",
+      "output": "Tutor: The word 'perspiration' means: .\" The golden rule to achieve success is to keep learning. These are three dangerous words: \"I know that.\" If you have read or heard about something, you do not know. If you are not rich and successful the way you want, then you do not know. Become a 'learn it all' rather than 'know it all'. Finally, it is significant to know that things do not just happen to your benefit by themselves; you must work hard to make them happen. Life is like a game 8 ________ more than playing not to lose.. Would you like me to provide some example sentences?",
+      "type": "vocabulary"
+    },
+    {
+      "input": "Student: What does 'aspire' mean?",
+      "output": "Tutor: The word 'aspire' means: to become can be completely different. Many parents said they had misguided their children into choosing a career of their choice. It is very important not to. Would you like me to provide some example sentences?",
+      "type": "vocabulary"
+    },
+    {
+      "input": "Student: What does 'agents' mean?",
+      "output": "Tutor: The word 'agents' means: that interact with the surroundings and conduct human-like behaviours. These agents are tools, having the ability to judge matter and differentiate what is wrong.. Would you like me to provide some example sentences?",
+      "type": "vocabulary"
+    },
+    {
+      "input": "Student: What does 'aptitude' mean?",
+      "output": "Tutor: The word 'aptitude' means: is a mirror of his/her personality, strengths, and weaknesses. Hence, a designed aptitude test can reveal a lot of information regarding the child that can help in taking a well-informed career selection. It is very difficult to spend your life working in a field that you are not interested in. Courses leading towards a desired career should be found easily for the young to enable them to make the right decisions about their future. Psychologists said that it was very easy for a child to get. Would you like me to provide some example sentences?",
+      "type": "vocabulary"
+    },
+    {
+      "input": "Student: What does 'perseverance' mean?",
+      "output": "Tutor: The word 'perseverance' means: , learning, studying,. Would you like me to provide some example sentences?",
+      "type": "vocabulary"
+    },
+    {
+      "input": "Student: Can you help me with Unit 1?",
+      "output": "Tutor: I'd be happy to help you with Unit 1! This unit covers career planning and future goals. Let me guide you through the key topics step by step.",
+      "type": "general_help"
+    },
+    {
+      "input": "Student: I need help with grammar exercises.",
+      "output": "Tutor: Grammar can be challenging, but I'm here to help! Let's work through the grammar concepts from your Syrian curriculum step by step.",
+      "type": "grammar_help"
+    },
+    {
+      "input": "Student: How do I prepare for my English exam?",
+      "output": "Tutor: Great question! Let me give you some effective study strategies for your English exam based on the Syrian 12th grade curriculum.",
+      "type": "exam_prep"
+    },
+    {
+      "input": "Student: I'm struggling with vocabulary.",
+      "output": "Tutor: Vocabulary building is important! Let me help you learn and remember new words from your textbook effectively.",
+      "type": "vocab_help"
+    },
+    {
+      "input": "Student: Help me understand this reading passage.",
+      "output": "Tutor: I'd be happy to help you understand the reading passage! Let's break it down paragraph by paragraph and discuss the key ideas.",
+      "type": "reading_help"
+    },
+    {
+      "input": "Student: How do I write a good essay?",
+      "output": "Tutor: Writing a good essay involves planning, structure, and clear expression. Let me guide you through the process using examples from your curriculum.",
+      "type": "writing_help"
+    }
+  ],
+  "metadata": {
+    "source": "Syrian 12th Grade English Curriculum",
+    "total_examples": 187,
+    "total_training_texts": 187
+  }
+}
